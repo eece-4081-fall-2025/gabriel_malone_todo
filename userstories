@@ -1,1 +1,27 @@
+Epic 1: Task Management
+As a user, I want to be able to add a new task so that it reminds me what to do.
+As a user, I want to be able to edit a task so that I can change a task in certain circumstances.
+As a user, I want to be able to delete a previously added task so that it is not appearing anymore.
+As a user, I want to be able to view any created task so that I may review them at any point.
 
+Epic 2: Reminders for Tasks
+As a user, I want to be able to set a date to a task so that I can see when the task is due.
+As a user, I want to set reminders for each task so that I am periodically reminded.
+As a user, I want to automatically disable a reminder so that reminders are not active for past tasks.
+
+Epic 3: Organization
+As a user, I want to reorder tasks so that I can see which task is the most important.
+As a user, I want to add labels to each task so that I can group tasks by categories.
+As a user, I want to search for specific keywords in a task so that I can find specific tasks in a long list.
+As a user, I want to search for dates so that I can filter tasks through the days of the week.
+
+Epic 4: Quality of Life
+As a user, I want to make a feature that adds picture to a task so that users can use a visual representation for their task.
+As a user, I want to be able to add tasks to other calenders so that users can merge all of their tasks into another calender.
+As a user, I want to make a UI that allows you to change the view to light mode or dark mode so that users can have full control over viewing options.
+
+Epic 5: Login
+As a user, I want to create a sign up portal for users so that they can create an account.
+As a user, I want to allow users to sign so that they can save all of their tasks.
+As a user, I want to create a log out option so that users can keep their info safe.
+As a user, I want to make a feature for returning users so that they can automatically sign in using 2-factor authentication.
